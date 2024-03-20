@@ -1,0 +1,25 @@
+{
+  "name": "batch-tx",
+  "version": "1.0.0",
+  "description": "batch tx for TPS Testing on EVM Based chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avenbreaks/batch-tx.git"
+  },
+  "keywords": [
+    "spamming",
+    "fuzzing",
+    "batch-tx",
+    "tps-testing"
+  ],
+  "author": "avenbreaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avenbreaks/batch-tx/issues"
+  },
+  "homepage": "https://github.com/avenbreaks/batch-tx#readme"
+}
